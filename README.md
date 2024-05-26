@@ -71,7 +71,7 @@ Read our [contributing guide](https://github.com/facebook/docusaurus/blob/main/C
 
 ### Beginner-friendly bugs
 
-To help you get your feet wet and get you familiar with our contribution process, we have a list of [beginner-friendly bugs](https://github.com/facebook/docusaurus/labels/good%20first%20issue) that might contain smaller issues to tackle first. This is a great place to get started.
+To help you get your feet wet and get you familiar with our contribution process, we have a list of [beginner-friendly bugs](https://github.com/DMenterprises/facebook/docusaurus/labels/good%20first%20issue) that might contain smaller issues to tackle first. This is a great place to get started.
 
 ## Contact
 
@@ -79,9 +79,8 @@ We have a few channels for contact:
 
 - [Discord](https://discord.gg/docusaurus):
   - `#general` for those using Docusaurus.
-  - `#contributors` for those wanting to contribute to the Docusaurus core.
 - [@docusaurus](https://twitter.com/docusaurus) on Twitter
-- [GitHub Issues](https://github.com/facebook/docusaurus/issues)
+- [GitHub Issues](https://github.com/DMenterprises/facebook/docusaurus/issues)
 
 ## Contributors
 
@@ -101,12 +100,9 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 
 ## License
 
-Docusaurus is [MIT licensed](./LICENSE).
-
-The Docusaurus documentation (e.g., `.md` files in the `/docs` folder) is [Creative Commons licensed](./LICENSE-docs).
-
+Docusaurus is [DM-enterprises/liscense].
+The Docusaurus documentation
 ## Special thanks
-
 <p>
   <a href="http://www.browserstack.com/" target="_blank">
     <picture>
